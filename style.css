@@ -1,0 +1,127 @@
+body{
+    margin: 0;
+    font-family: 'Oswald', sans-serif;
+}
+.link{
+    height:30px;
+}
+.link-area{
+    float:right;
+}
+.link-area p{
+    color: black;
+    float: left;
+    padding: 10px;
+}
+h1{
+    font-size: 45px;
+}
+.blue-highlight{
+    color: rgb(9, 53, 104);
+}
+.pink-highlight{
+    color: rgb(255, 112, 160);
+}
+section{
+    height: 500px;
+}
+.half-width{
+    width:40%;
+    float: left;
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+p{
+    color: gray;
+}
+.half-width p{
+    padding-bottom: 20px;
+}
+
+.introduction-area{
+    margin-top: 30px;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(180deg, rgb(255, 132, 173), rgb(241, 26, 98));
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.about-area{
+    margin-bottom: 100px;
+}
+.project-area{
+    background-color: rgb(241, 241, 241);
+    padding-top: 40px;
+    height:700px;
+}
+h2{
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 60px;
+}
+.full-projects{
+    margin-left: 10%;
+}
+.single-project{
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    background-color: white;
+    padding: 10px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 10px rgb(211, 211, 211);
+}
+.single-project img{
+    width: 100%;
+}
+.work-section{
+    margin: 70px auto;
+    margin-bottom: 0px;
+    width: 80%;
+}
+.work{
+    background-image: url("images/Group_33094_1.png");
+    background-size: cover;
+    height: 267px;
+    width: 100%;
+}
+
+#white-highlight{
+    color: white;
+    font-size: 50px;
+    padding-top: 25px;
+    
+}
+
+#chat{
+    margin-left: 200px;
+    padding-top: 100px;
+}
+.connection{
+    margin: 0 auto;
+    width:30%;
+    height:300px;
+}
+
+.stay-connected h3{
+    color:gray;
+    text-align: center;
+}
+.stay-connected p{
+    text-align: center;
+    font-size: 35px;
+}
+.stay-connected img{
+    width: 12%;
+    padding: 8px;
+    text-align: center;
+}
+#social-icon{
+    margin-left: 120px;
+}
